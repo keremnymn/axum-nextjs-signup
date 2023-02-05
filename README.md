@@ -16,7 +16,7 @@ This and the front end is very easy. Just go to **`/backend`** directory and run
 
 ### Edit `.env` file
 You need to edit the .env file to change these four parameters:
- - **DATABASE **
+ - **DATABASE**
  - **SMTP_USERNAME** 
  - **SMTP_PASSWORD** 
  - **SENDER**

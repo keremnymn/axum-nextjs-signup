@@ -1,0 +1,41 @@
+{
+    "confirmMail": {
+        "subject": "Confirm Your Email",
+        "buttonKey": [
+            "**-button-**",
+            "Confirm Account"
+        ],
+        "icon": [
+            "**-mainIcon-**",
+            "https://img.icons8.com/ios/512/sign-up.png"
+        ],
+        "title": [
+            "**-title-**",
+            "Welcome!"
+        ],
+        "mainText": [
+            "**-mainText-**",
+            "We're excited to have you get started. First, please use the button below to activate your account!"
+        ],
+        "hiddenText": [
+            "**-hiddenText-**",
+            "We're thrilled to have you here! Get ready to dive into your new account."
+        ],
+        "genericMessage1": [
+            "**-generic-message-1-**",
+            "If you have any questions, just reply to this email - we're always happy to help out."
+        ],
+        "genericMessage2": [
+            "**-generic-message-2-**",
+            "Cheers"
+        ],
+        "genericMessage3": [
+            "**-generic-message-3-**",
+            "Need more help?"
+        ],
+        "genericMessage4": [
+            "**-generic-message-4-**",
+            "We're here to help you out"
+        ]
+    }
+}
